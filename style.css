@@ -1,0 +1,25 @@
+
+ body{
+   background-color:black;
+   color:white;
+   background-image: url("https://wallpapercave.com/wp/wp9583635.jpg");
+   background-repeat: no-repeat;
+   background-size:cover;
+   background-position: center;
+   height:100vh
+   
+
+ }
+ .caixa{
+   background-color: rgba(0,0,0,0.5);
+   padding: 0.2em 1em
+ }
+ .link {
+   color:rgb(199, 20, 20)
+ }
+ .insta { 
+   color:aquamarine
+ }
+ input {
+   font-size:18px
+ }
